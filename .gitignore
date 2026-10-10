@@ -1,0 +1,4 @@
+build/
+release/*.vpk
+src_v04_backup/
+*.bak
